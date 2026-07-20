@@ -12,7 +12,7 @@ const App = () => {
 
   return (
     <>
-      <Navbar />
+      <Navbar page={page} setPage={setPage} />
       {page === "home" &&  <Home setPage={setPage}/>}
       {page === "calculator" && <Calculator setPage={setPage}/>}
       {page === "bmi" &&  <BMICalculator setPage={setPage} />}
