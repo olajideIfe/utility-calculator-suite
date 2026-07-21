@@ -2,6 +2,10 @@
 
 A responsive utility calculator suite built with React and Tailwind CSS. The application provides four useful calculators in one simple and user-friendly interface.
 
+## 🔗 Live Demo
+
+[View Live Application](https://utility-calculator-suite.vercel.app/)
+
 ## ✨ Features
 
 - Standard Calculator – Perform basic arithmetic calculations.
